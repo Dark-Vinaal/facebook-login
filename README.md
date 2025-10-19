@@ -1,3 +1,10 @@
+<div style="text-align:center; padding:10px; background:#ffeb3b;">
+   <b>⚠ Demo Project:</b> This is a UI clone for educational purposes only. 
+   No login or data collection happens here.
+</div>
+
+---
+
 # "Facebook Login Page Clone1" (UI Replication) 💻
 
 <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="100"> 
